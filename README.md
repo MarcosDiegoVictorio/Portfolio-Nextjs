@@ -1,6 +1,6 @@
-## Projeto de um Portifólio.
+## Projeto de um Portfólio.
 
-###### Neste projeto, reproduzi uma página portifólio para divulgação de projetos.
+###### Neste projeto, reproduzi uma página portfólio para divulgação de projetos.
 
 ###### Para executar este projeto, você precisa clonar este repositório e executar este código em sua pasta local.
 
