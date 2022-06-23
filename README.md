@@ -7,7 +7,6 @@
  **Comandos iniciais para rodar a aplicação:**
 >**_yarn_**
 para instalar as dependencias no projeto.
-<br>
 **_yarn dev_**
 para executar o aplicativo no modo de desenvolvimento.
 
